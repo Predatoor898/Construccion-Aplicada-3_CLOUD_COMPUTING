@@ -1,0 +1,4 @@
+
+--iNSTALACION DEPENDENCIAS--
+pip install Flask-JWT-Extended
+
